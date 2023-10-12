@@ -1,7 +1,7 @@
 // Vars: nome, qtd_exp
 let nome = 'Mário'
 let qtd_exp = 5000
-let nivel = ''
+let nivel = ' '
 
 if(qtd_exp <= 1000){
 	nivel = 'Ferro'
